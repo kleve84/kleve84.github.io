@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uhm_lobby.png
+image: images/uhm_lobby.jpg
 title: Datacenter Migration
 permalink: projects/datacenter
 date: 2014
