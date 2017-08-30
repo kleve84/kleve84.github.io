@@ -7,7 +7,6 @@ permalink: projects/datacenter
 date: 2014
 labels:
   - Datacenter
-  - Networking
 summary: I was assigned to a team to coordinate and move UH system servers to the newly built University IT building.
 ---
 
