@@ -50,60 +50,67 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "C++"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Linux",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2017)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2012-08-21",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": [ "Discrete Math for Engineers", "Computer Communication Nets", 
+        "Electromagnetics", "Renewable Energy", "Software Engineering"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii",
+      "position": "Student Data Center Tech 3",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Manage data center for University of Hawaii system",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Oversee and maintain an 8000 square foot data center to ensure quality performance for university 
+            staff and co-location customers; routine inspections, inventory management, and installations 
+            to support work operations",
+        "Planning, drafting, and testing processes for data center equipment, facilities, and systems. 
+            Ensuring adherence to safety procedures and maintaining high quality service standards expected 
+            by management",
+        "Examined customer installations and observed operations to ensure conformance to design and equipment
+            specifications"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "University of Hawaii",
+      "position": "Computer Operator 3",
+      "website": "",
+      "startDate": "2012-08-20",
+      "endDate": "2016-09-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Direct infrastructure monitoring to identify and resolve issues on a statewide network. Diagnosed
+            malfunctioning equipment and prepared information for field personnel; ensured complete historical
+            documentation of actions and steps performed at the conclusion of jobs",
+        "Implemented and supported corporate data systems for routers, switches, servers, and phone systems.
+            Configured, installed, tested, and troubleshooted Cisco equipment to upgrade the university network
+            infrastructure capabilities",
+        "Promoted to lead computer operator in two years and managed 3 student workers in performing work assigned 
+            by supervisors"
       ]
     }
   ],
