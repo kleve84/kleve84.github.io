@@ -8,19 +8,19 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/gameboy.jpg">
+<img class="ui tiny left circular floated image" src="../images/starbucks.jpg">
 
 ## Give me a small nonfat drip
 
 Learning a new programming language has always made me uncomfortable. It feels like I’m walking into Starbucks for the first time, trying to order a tea without sounding like a Neanderthal. Meanwhile, everyone else is speaking the language and creating drinks beautiful enough for their Instagram. From my novice eyes the disparity between me and a professional seems too great, that I’ll never be able to create the drink of my dreams. Going into Javascript I had the same feeling, but I’m enjoying the taste thus far.
 
-<img class="ui tiny left circular floated image" src="../images/present.jpg">
+<img class="ui tiny left circular floated image" src="../images/coffee-or-tea.jpg">
 
 ## Coffee or Tea?
 
 Whether it’s C#, Javascript, or Python, every programming language has its own flavor and depth to it. My previous experience in programming (C and C++) made Javascript easier to digest. Creating variables has never been easier as I do not have to declare variable types, just assign the value and done. In addition, Javascript shares many functions with other programming languages such as arrays, switches, conditionals, and more. As a result, I am unsure of the capabilities of Javascript as its simplicity may undermine other areas that a software engineer cares about. In order to truly critique my flavor of programming, I need more experience developing and testing to give an accurate review.
 
-<img class="ui tiny left circular floated image" src="../images/dk.jpg">
+<img class="ui tiny left circular floated image" src="../images/pedagogy.jpg">
 
 ## One cup a day
 
