@@ -28,6 +28,7 @@ Binge drinking 10 cups of espresso a day is just as bad as spending 10 hours a d
 
 <blockquote>
 This pedagogy involves a high intensity, time-constrained, and often stress-inducing approach to acquiring competency with software engineering skills.
+  <footer>Philip Johnson</footer>
 </blockquote>
 
 During the past week, having to learn Javascript in such a short period seemed like a recipe for disaster. Each day, putting in 2-3 hours of intense coding, dedicated reading, and practice with the “Workout of the Day” (WOD) to prepare me for the in-class WOD, an all or nothing evaluation. When the in-class WOD was over I thought it was too easy. In reality, ASE prepared me for the test by having me take practice seriously. Instead of trying to get an acceptable grade I was trying to become a master. All things considered, I’m enjoying the taste of Javascript and hope to give an improved review of this flavor of programming by the end of the semester. 
