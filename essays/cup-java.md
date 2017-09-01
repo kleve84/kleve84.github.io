@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/starbucks.jpg">
+<img class="ui tiny left circular floated image" src="../images/starbucks2.jpg">
 
 ## Give me a small nonfat drip
 
