@@ -8,13 +8,13 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/starbucks2.jpg">
+<img class="ui tiny left circular floated image" src="../images/starbucks.png">
 
 ## Give me a small nonfat drip
 
 Learning a new programming language has always made me uncomfortable. It feels like I’m walking into Starbucks for the first time, trying to order a tea without sounding like a Neanderthal. Meanwhile, everyone else is speaking the language and creating drinks beautiful enough for their Instagram. From my novice eyes the disparity between me and a professional seems too great, that I’ll never be able to create the drink of my dreams. Going into Javascript I had the same feeling, but I’m enjoying the taste thus far.
 
-<img class="ui tiny left circular floated image" src="../images/coffee-or-tea.png">
+<img class="ui tiny left circular floated image" src="../images/coffee-or-tea.jpg">
 
 ## Coffee or Tea?
 
