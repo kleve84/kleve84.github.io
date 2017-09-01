@@ -25,7 +25,6 @@ Whether it’s C#, Javascript, or Python, every programming language has its own
 ## One cup a day
 
 Binge drinking 10 cups of espresso a day is just as bad as spending 10 hours a day coding in Javascript. It may work for some people but I am unable to stay focused for that long. I feel that many classes do not engage students by spending too much time in lecture. For this reason, the “Athletic Software Engineering” (ASE) pedagogy suits my style of learning. In my professor’s words,
-
 <blockquote>
 This pedagogy involves a high intensity, time-constrained, and often stress-inducing approach to acquiring competency with software engineering skills.
 <footer>
