@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Another Cup of Java
+title: Test Blockquote
 date: 2017-09-01
 labels:
   - Javascript
