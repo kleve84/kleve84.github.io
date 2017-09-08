@@ -9,9 +9,6 @@ labels:
 ---
 
 <img class=”ui fluid image” src="../images/questions.jpg">
-<img class=”ui fluid image” src="../images/molly.png">
-
-
 
 ## What is a question?
 
