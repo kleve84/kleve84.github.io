@@ -8,7 +8,7 @@ labels:
   - StackOverflow
 ---
 
-<img class=”ui fluid image” src="../images/questions.jpg">
+<img class="ui fluid image" src="../images/questions.jpg">
 
 ## What is a question?
 
@@ -20,7 +20,7 @@ The Merriam-Webster website defines a question as “an interrogative expression
 
 Mr. Hendrix asked the brilliant community of StackOverflow a simple [question](https://stackoverflow.com/questions/45912510/does-java-jit-cheat-when-running-jdk-code). Immediately, I can tell that this is a smart question because I have no idea what is Java HotSpot or JIT. By reading the question I know exactly what I am getting myself into, how to recreate the issue, and what Mr. Hendrix is asking. As a result, my next step of action is this:
 
-<img class=”ui centered large rounded image” src="../images/walking-out.jpg">
+<img class="ui centered large rounded image" src="../images/walking-out.jpg">
 
 I can not answer this question, and that is a good thing because the question was not made for me. This smart question is for a person more experienced in Java HotSpot, JVM, and JIT. In an hour and 30 minutes, that person came and answered the question. Finally, everyone got what they wanted and in such a short period. On the contrary, a not-so-smart question requires an all nighter.
 
@@ -28,7 +28,7 @@ I can not answer this question, and that is a good thing because the question wa
 
 This [question](https://stackoverflow.com/questions/46091083/how-to-preserve-variable-data-outside-of-if-statement) was asked by a random user on StackOverflow. My first response to this question would be another question, not a good start. The original question is unclear, lacking the information needed to even start discussion of the problem. At this point most people would do this:
 
-<img class=”ui centered large rounded image” src="../images/walking-out.jpg">
+<img class="ui centered large rounded image" src="../images/walking-out.jpg">
 
 Instead of getting an answer, the author received even more questions. This defeats the purpose of the question in the first place, causing frustration on both sides. A question needs thinking, research, and time to get the correct answer in the shortest amount of time. Otherwise, your question is ignored or in this case, put on hold until clarified.
 
