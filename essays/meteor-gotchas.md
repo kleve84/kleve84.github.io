@@ -23,12 +23,5 @@ Forgetting to use the aformentioned code caused my application to not display an
 
 ## Problem Dva
 
-A second problem I encountered was using the spacebar templates in the digits application. I know that we use spacebars to create custom helpers, such as:
-
-```
-{{header}};
-{{footer}};
-```
-
-Still, I have trouble using spacebars to iterate through a collection or check the validity of a statement. This is due to the fact that much of our digits application so far has been using the template of another file, reducing the need to know what spacebars are capable of. I am working on this issue by doing a workout without copy and pasting so it becomes second-hand knowledge.
+A second problem I encountered was using the spacebar templates in the digits application. I know that we use spacebars to create custom helpers. Still, I have trouble using spacebars to iterate through a collection or check the validity of a statement. This is due to the fact that much of our digits application so far has been using the template of another file, reducing the need to know what spacebars are capable of. I am working on this issue by doing a workout without copy and pasting so it becomes second-hand knowledge.
 
