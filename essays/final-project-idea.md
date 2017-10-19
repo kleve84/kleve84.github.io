@@ -16,30 +16,28 @@ UH Manoa has a thriving community of students and staff that want to hosts event
 ## Mockup Page Ideas
 
 Some mockup pages include:
-<div class="ui bulleted list">
-  <div class="item">Home Page</div>
-  <div class="item">Login Page</div>
-  <div class="item">Events Calendar Page</div>
-  <div class="item">Admin Page</div>
-  <div class="item">Browse Events by Category</div>
-</div>
+<ul class="ui list">
+  <li class="item">Home Page</li>
+  <li class="item">Login Page</li>
+  <li class="item">Events Calendar Page</li>
+  <li class="item">Admin Page</li>
+  <li class="item">Browse Events by Category</li>
+</ul>
 
 
 ## Use Case Ideas
 
 The pages should implement the following functions:
 
-<div class="ui bulleted list">
-  <div class="item">A public user visits the homepage, immediately view upcoming events, visit events calendar page, and browse events by category.</div>
-  <div class="item">An admin user can visit the login page, create and manage events.</div>
-  <div class="item">Logged in users are able to comment/question on events and create events in addition to what a public user can do.</div>
-</div>
+<ul class="ui list">
+  <li class="item">A public user visits the homepage, immediately view upcoming events, visit events calendar page, and browse events by category.</li>
+  <li class="item">An admin user can visit the login page, create and manage events.</li>
+  <li class="item">Logged in users are able to comment/question on events and create events in addition to what a public user can do.</li>
+</ul>
+
 
 ## Beyond the Basics
 
 After implementing the basics there are some additional functionalities we would like to add:
-
-<div class="ui bulleted list">
-  <div class="item">A system checks to see if events have the required information and notifys an admin for approval.</div>
-  <div class="item">A system to let users express their interest in attending.</div>
-</div>
+A system checks to see if events have the required information and notifys an admin for approval.
+A system to let users express their interest in attending.
