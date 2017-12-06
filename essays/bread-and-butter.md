@@ -16,7 +16,7 @@ Waking up every morning is a challenge. You have to make your bed, take a shower
 
 ## Why Bread and Butter
 
-Software engineering requires its own version of bread and butter, called design patterns. As bread and butter solves my morning hunger, a design pattern solves a software design problem. It is important to note that design patterns are just templates, not a finished solution for direct implementation. Similarly, bread and butter requires work to actually make a meal, such as: toasting the bread, grabbing the butter, and putting butter on toast. However, the template is what makes design patterns popular and unique as they can be used in many different situations. Bread and butter can suddenly turn into dessert with bread pudding, or become a fancy brunch item like french toast. It is up to the engineer or chef to decide what it the best way to use bread and butter.
+Software engineering requires its own version of bread and butter, called design patterns. As bread and butter solves my morning hunger, a design pattern solves a software design problem. It is important to note that design patterns are just templates, not a finished solution for direct implementation. Similarly, bread and butter requires work to actually make a meal, such as: toasting the bread, grabbing the butter, and putting butter on toast. However, the template is what makes design patterns popular and unique as they can be used in many different situations. Bread and butter can suddenly turn into dessert with bread pudding, or become a fancy brunch item like french toast. It is up to the engineer or chef to decide what is the best way to use bread and butter.
 
 ## The Bread and The Butter
 
