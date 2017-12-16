@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: images/uhm_lobby.jpg
-title: Datacenter Migration
-permalink: projects/datacenter
-date: 2014
+image: images/manoa-recipes-landing.jpg
+title: Manoa Recipes Project
+permalink: projects/manoa
+date: 2017
 labels:
-  - Datacenter
-summary: I was assigned to a team to coordinate and move UH system servers to the newly built University IT building.
+  - Software Engineering
+summary: I was assigned to a team in my Software Engineering class to develop a Meteor application. We decided to create a recipe application to be used by Manoa students and the public.
 ---
 
 <div class="ui small rounded images">
