@@ -66,10 +66,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2017)",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2012-08-21",
-      "endDate": "Present",
+      "endDate": "2017-12-16",
       "gpa": "",
       "courses": [ "Discrete Math for Engineers", "Computer Communication Nets", 
         "Electromagnetics", "Renewable Energy", "Software Engineering"
