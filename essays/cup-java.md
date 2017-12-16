@@ -12,7 +12,7 @@ labels:
 
 ## Give me a small nonfat drip
 
-Learning a new programming language has always made me uncomfortable. It feels like I’m walking into Starbucks for the first time, trying to order a tea without sounding like a Neanderthal. Meanwhile, everyone else is speaking the language and creating drinks beautiful enough for their Instagram. From my novice eyes the disparity between me and a professional seems too great, that I’ll never be able to create the drink of my dreams. Going into Javascript I had the same feeling, but I’m enjoying the taste thus far.
+Learning a new programming language has always made me uncomfortable. It feels like I’m walking into Starbucks for the first time, trying to order a coffee using the local jargon. Meanwhile, everyone else is speaking the language and creating drinks beautiful enough for their Instagram. From my novice eyes the disparity between me and a professional seems too great, that I’ll never be able to create the drink of my dreams. Going into Javascript I had the same feeling, but I’m enjoying the taste thus far.
 
 <img class="ui tiny left circular floated image" src="../images/coffee-or-tea.jpg">
 
@@ -26,6 +26,6 @@ Whether it’s C#, Javascript, or Python, every programming language has its own
 
 Binge drinking 10 cups of espresso a day is just as bad as spending 10 hours a day coding in Javascript. It may work for some people but I am unable to stay focused for that long. I feel that many classes do not engage students by spending too much time in lecture. For this reason, the “Athletic Software Engineering” (ASE) pedagogy suits my style of learning. Philip Johnson (Professor of ICS at UH Manoa) states, “This pedagogy involves a high intensity, time-constrained, and often stress-inducing approach to acquiring competency with software engineering skills.”
 
-### Ahhh...
+## Ahhh...
 
-During the past week, having to learn Javascript in such a short period seemed like a recipe for disaster. Each day, putting in 2-3 hours of intense coding, dedicated reading, and practice with the “Workout of the Day” (WOD) to prepare me for the in-class WOD, an all or nothing evaluation. When the in-class WOD was over I thought it was too easy. In reality, ASE prepared me for the test by having me take practice seriously. Instead of trying to get an acceptable grade I was trying to become a master. All things considered, I’m enjoying the taste of Javascript and hope to give an improved review of this flavor of programming by the end of the semester. 
+During the past week, having to learn Javascript in such a short period seemed like a recipe for disaster. Each day, putting in 2-3 hours of intense coding, dedicated reading, and practice with the “Workout of the Day” (WOD) to prepare me for the in-class WOD, an all or nothing evaluation. When the in-class WOD was over I thought it was too easy. In reality, ASE prepared me for the test by having me take practice seriously. Instead of trying to get an acceptable grade I was trying to become a master. All things considered, I’m enjoying the taste of Javascript and hope to increase my knowledge to become a Javascript sommelier.
