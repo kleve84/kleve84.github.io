@@ -21,9 +21,7 @@ I was part of a four student team responsible for implementing the Manoa Recipes
 
 Altogether, I learned a lot about software engineering from this project. One of the most important experiences was working with a team using Github. It was my first time using a code management tool and it drastically improved the effectiveness of teamwork. It became easy to push our own contributions to the code but to also help each other if someone got stuck. In addition, I got to gain experience with the Meteor web framework and got to create working web pages in a short amount of time. This experience shaped my career and was a stepping stone into the professional world.
 
-<a href="https://github.com/manoarecipes/manoarecipes">
-<div class="ui labeled icon button">
+<div class="ui labeled icon button" href="https://github.com/manoarecipes/manoarecipes">
   <i class="github icon"></i>
   Github page
 </div>
-</a>
