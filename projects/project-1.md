@@ -10,7 +10,7 @@ labels:
 summary: I was assigned to a team in my Software Engineering class to develop a Meteor application. We decided to create a recipe application to be used by Manoa students and the public.
 ---
 
-<div class="ui medium images">
+<div class="ui centered large images">
   <img src="../images/manoa-recipes-directory.png">
   <img src="../images/manoa-recipes-view.png">
 </div>

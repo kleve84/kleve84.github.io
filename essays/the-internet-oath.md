@@ -18,13 +18,13 @@ On new year's day of 2017, I made a promise to gain 20 pounds by going to the gy
 
 ## "Why Can't Everything Be Black and White?"
 
-Ethics serves a a book of guidance in this complicated world of ours. In movies, comic books, and video games, it can be easy to see who is good and who is bad. In reality, the world is a mix of bad and good, white and black, day and night. It is important to have the ability and courage to navigate these complex situations that arise from time to time. As such, software engineering ethics act as a book of guidelines for the professional to reference when an ethical dilemma appears and an oath to uphold key values.
+Ethics serves a a book of guidance in this complicated world of ours. In movies, comic books, and video games, it can be easy to see who is good and who is bad. In reality, the world is a mix of bad and good, white and black, day and night. It is important to have the ability and courage to navigate these complex situations that arise from time to time. An ethical dilemma is a situation full of gray, many solutions but no clear answer. As such, software engineering ethics act as a book of guidelines for the professional to reference in order to solve the issues of the world.
 
 <img class="ui tiny left circular floated image" src="../images/dilemma.jpg">
 
 ## A Conundrum
 
-Software engineers are presented with a new set of ethical obligations, namely the distribution of information. When Google released its StreetView feature, many people were upset as they believed their privacy was violated. This is a dilemma as it is not illegal to take pictures, but distributing them to others without a person's consent can lead to many issues. For example, a criminal could use Google StreetView to gather information on the residents in a location to burglarize. With this new information, a criminal could target places where there was poor lighting or homes with elderly people as they offer less resistance. These are the types of problems that a software engineer must identify, research, and come to a conclusion.
+Software engineers are presented with a new set of ethical obligations, namely the distribution of information. When Google released its StreetView feature, many people were upset as they believed their privacy was violated. This is a dilemma as it is not illegal to take pictures, but distributing them to others without a person's consent can lead to many issues. For example, a criminal could use Google StreetView to gather information on the residents in a location to burglarize. With this new information, a criminal could target places where there was poor lighting or homes with more wealth. These are the types of problems that a software engineer must identify, research, and come to a conclusion.
 
 <img class="ui tiny left circular floated image" src="../images/solution.jpg">
 
