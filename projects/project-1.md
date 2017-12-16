@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/manoa-recipes-landing.jpg
+image: images/manoa-recipes-landing.png
 title: Manoa Recipes Project
 permalink: projects/manoa
 date: 2017
