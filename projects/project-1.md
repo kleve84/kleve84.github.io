@@ -11,9 +11,10 @@ summary: I was assigned to a team in my Software Engineering class to develop a 
 ---
 
 <div class="ui modal">
-  <div class="header>Click on pictures:</div>
   <div class="image content">
-  <img class="ui image" src="../images/uhm_itc.jpg">
+    <div class="ui fluid image">
+      <img src="../images/uhm_itc.jpg">
+    </div>
   </div>
 </div>
 
