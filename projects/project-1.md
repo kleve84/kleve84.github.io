@@ -7,7 +7,7 @@ permalink: projects/manoa
 date: 2017
 labels:
   - Software Engineering
-summary: I was assigned to a team in my Software Engineering class to develop a Meteor application. We decided to create a recipe application to be used by Manoa students and the public.
+summary: I was assigned to a team to develop a Meteor website application. We decided to create a recipe application to be used by Manoa students and the public.
 ---
 
 <div class="ui centered medium images">
