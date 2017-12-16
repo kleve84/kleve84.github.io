@@ -10,9 +10,11 @@ labels:
 summary: I was assigned to a team in my Software Engineering class to develop a Meteor application. We decided to create a recipe application to be used by Manoa students and the public.
 ---
 
-<div class="ui small rounded images">
+<div class="ui modal">
+  <div class="header>Click on pictures:</div>
+  <div class="image content">
   <img class="ui image" src="../images/uhm_itc.jpg">
-  <img class="ui image" src="../images/uhm_datacenter.jpg">
+  </div>
 </div>
 
 
@@ -22,3 +24,8 @@ For this project, I was assigned to a team responsible for the uninstallation, t
 
 In short, this project provided great experience in datacenter equipment installation, planning, and effective communication.
 
+<script>
+$('.ui.modal')
+  .modal('show')
+;
+</script>
