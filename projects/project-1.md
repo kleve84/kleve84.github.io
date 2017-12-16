@@ -10,23 +10,18 @@ labels:
 summary: I was assigned to a team in my Software Engineering class to develop a Meteor application. We decided to create a recipe application to be used by Manoa students and the public.
 ---
 
-<div class="ui modal">
-  <div class="image content">
-    <div class="ui fluid image">
-      <img src="../images/uhm_itc.jpg">
-    </div>
-  </div>
+<div class="ui medium images">
+  <img src="./images/manoa-recipes-directory.png">
+  <img src="./images/manoa-recipes-view.png">
 </div>
 
+The Manoa Recipes project was created to serve the university community as a place for students and others to share food recipes. As many people know, living in Hawaii is expensive due to living in paradise. The project aimed to allow students to share cheap food recipes that could be prepared with local ingredients and with limited cooking tools. 
 
-The University of Hawaii at Manoa started construction on the Information Technology (IT) Center on February 2, 2012. This 74,000 square foot building would be the new location for IT personnel and equipment. Inside this building is an 8,000 square foot datacenter which houses the necessary servers, routers, and switches necessary for the University of Hawaii System to function across its 10 campuses. With this in mind, it was a challenge to schedule, move, and install the equipment into the new datacenter.
+I was part of a four student team responsible for implementing the Manoa Recipes application. I created the recipe directory which allowed users to easily browse all recipes stored on the website. I decided on a card layout as it was similar to professional recipe websites, such as <a href="http://allrecipes.com/">Allrecipes.com.</a> In addition, I created the recipe view page which displayed a short description of the recipe and how to make it. This required pulling the right values from the Mongo database and use of semantic UI to make the page presentable. It was enjoyable to work in a team and I was able to get my first taste of software engineering.
 
-For this project, I was assigned to a team responsible for the uninstallation, transportation, and re-installation of equipment from the old datacenter to the new one. I started by preparing both sites with the necessary tools and hardware to uninstall and reinstall equipment for the day. The next step was to acquire and prepare the carts and vehicles necessary to move equipment from the two locations. Many servers were using disk drives which required extra care in transportation with the use of moving blankets and other material. Finally, the last step was to reinstall the equipment into the new cabinet and verify with customers that systems and services were working. By the end of the year, we were able to move all IT equipment into the new datacenter without missing any deadlines.
+Altogether, I learned a lot about software engineering from this project. One of the most important experiences was working with a team using Github. It was my first time using a code management tool and it drastically improved the effectiveness of teamwork. It became easy to push our own contributions to the code but to also help each other if someone got stuck. In addition, I got to gain experience with the Meteor web framework and got to create working web pages in a short amount of time. This experience shaped my career and was a stepping stone into the professional world.
 
-In short, this project provided great experience in datacenter equipment installation, planning, and effective communication.
-
-<script>
-$('.ui.modal')
-  .modal('show')
-;
-</script>
+<div class="ui primary labeled icon button">
+  <i class="github icon"></i>
+  <a href="https://github.com/manoarecipes/manoarecipes">Github Page</a>
+</div>
