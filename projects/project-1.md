@@ -11,8 +11,8 @@ summary: I was assigned to a team in my Software Engineering class to develop a 
 ---
 
 <div class="ui medium images">
-  <img src="./images/manoa-recipes-directory.png">
-  <img src="./images/manoa-recipes-view.png">
+  <img src="../images/manoa-recipes-directory.png">
+  <img src="../images/manoa-recipes-view.png">
 </div>
 
 The Manoa Recipes project was created to serve the university community as a place for students and others to share food recipes. As many people know, living in Hawaii is expensive due to living in paradise. The project aimed to allow students to share cheap food recipes that could be prepared with local ingredients and with limited cooking tools. 
@@ -21,7 +21,7 @@ I was part of a four student team responsible for implementing the Manoa Recipes
 
 Altogether, I learned a lot about software engineering from this project. One of the most important experiences was working with a team using Github. It was my first time using a code management tool and it drastically improved the effectiveness of teamwork. It became easy to push our own contributions to the code but to also help each other if someone got stuck. In addition, I got to gain experience with the Meteor web framework and got to create working web pages in a short amount of time. This experience shaped my career and was a stepping stone into the professional world.
 
-<div class="ui primary labeled icon button">
+<div class="ui labeled icon button">
   <i class="github icon"></i>
   <a href="https://github.com/manoarecipes/manoarecipes">Github Page</a>
 </div>
